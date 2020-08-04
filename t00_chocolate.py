@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen           ****** TODO: CHANGE THIS!! ******
-# username: heggens             ****** TODO: CHANGE THIS!! *****
+# Author: Dr. Scott Heggen and Prof. Brian Schack               ****** TODO: CHANGE THIS!! ******
+# username: heggens schackb                                     ****** TODO: CHANGE THIS!! *****
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
