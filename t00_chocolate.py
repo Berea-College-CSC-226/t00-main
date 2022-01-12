@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Jan Pearce and Prof. Patrick Shepherd             ****** TODO: CHANGE THIS!! ******
-# username: pearcej shepherdp                                   ****** TODO: CHANGE THIS!! *****
+# Author: Dr. Patrick Shepherd       ****** TODO: CHANGE THIS!! ******
+# username: shepherdp                ****** TODO: CHANGE THIS!! ******
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
